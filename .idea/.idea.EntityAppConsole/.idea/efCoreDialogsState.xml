@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:3c671f5c-23e3-4275-a1c4-34d3ac3d9ac8:dbContext" value="EntityAppConsole.Data.FootballLeagueDbContext" />
+        <entry key="Common:659ae9fd-baac-4bf3-9ef6-6c9eec001186:dbContext" value="EntityAppConsole.Data.FootballLeagueDbContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:idempotent" value="false" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:noTransactions" value="false" />
+        <entry key="Common:outputFilePath" value="script.sql" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
